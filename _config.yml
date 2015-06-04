@@ -2,9 +2,9 @@
 menu:
   home: /
   #categories: /categories
-  #about: /about
+  about: /about
   archives: /archives
-  tags: /tags
+  #tags: /tags
   #commonweal: /404.html
 
 # Place your favicon.ico to /source directory.
@@ -37,7 +37,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 # Sidebar, available value:
